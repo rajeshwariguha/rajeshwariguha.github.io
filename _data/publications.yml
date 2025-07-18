@@ -14,3 +14,17 @@ main:
     conference: Women's Studies, Taylor & Francis Group
     pdf: https://doi.org/10.1080/00497878.2024.2443100
     image: ./assets/img/feminist_take.jpg
+
+  - title: "Freedom Through Aussprachen: The Language of Confession and Mercy in Dostoyevsky's Crime and Punishment"
+    authors: Rajeshwari Guha
+    conference_short: Literary Cognizance
+    conference: Literary Cognizance - An International Refereed / Peer Reviewed e - Journal of English Language, Literature & Criticism
+    pdf: https://www.academia.edu/112590188/Freedom_Through_Aussprachen_The_Language_of_Confession_and_Mercy_in_Dostoyevskys_Crime_and_Punishment
+    image: ./assets/img/crime_and_punishment.jpg
+
+  - title: "Queering Myths: Fashioning Homer's 'Odyssey' into a Gay, Avant-Garde Re-telling in Andrew Sean Greer's 'Less'"
+    authors: Rajeshwari Guha
+    conference_short: National Seminar
+    conference: National Seminar (Debabrata Mukherjee Memorial Conference) 
+    pdf: https://www.academia.edu/116840524/Queering_Myths_Fashioning_Homers_Odyssey_into_a_Gay_Avant_Garde_Re_telling_in_Andrew_Sean_Greers_Less
+    image: ./assets/img/less.jpg
